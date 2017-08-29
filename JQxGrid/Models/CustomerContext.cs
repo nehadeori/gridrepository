@@ -70,6 +70,6 @@ namespace JQxGrid.Models
             // .HasForeignKey(o => o.CustomerId)
             // .WillCascadeOnDelete(true);
             //base.OnModelCreating(modelBuilder);
-        }
+        }//hello world
     }
 }
