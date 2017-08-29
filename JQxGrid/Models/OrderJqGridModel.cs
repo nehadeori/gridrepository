@@ -45,5 +45,5 @@
 //            ordersgrid.toolbarsettings.showrefreshbutton = true;
 //        }
 
-//    }//ya ita has been changed
+//    }//now we hav make changes on the server side
 //}
